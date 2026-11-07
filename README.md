@@ -13,9 +13,9 @@ Repository ini merupakan dokumentasi resmi dari kegiatan **Day 1 Proyek Workshop
 ---
 
 ## Tujuan Repository
-1. **Penyimpanan Dokumentasi:** Menjadi wadah pencatatan materi dan pengetahuan yang didapatkan selama sesi workshop.
-2. **Pemenuhan Tugas:** Memenuhi persyaratan evaluasi dan pengumpulan tugas Day 1 Proyek Workshop.
-3. **Portofolio Pembelajaran:** Sebagai rekam jejak digital atas proses belajar dan pengembangan keterampilan teknis.
+1. **Pemahaman Akademik & Karir:** Memahami seluk-beluk TIK, kurikulum, serta profil lulusan sebagai arah studi dan persiapan magang.
+2. **Penguasaan Prompt Engineering:** Melatih kemampuan prompting AI secara terstruktur untuk mempercepat pembuatan proyek aplikasi dan website.
+3. **Portofolio & Dokumentasi GitHub:** Membiasakan standar dokumentasi teknis di GitHub sebagai portofolio digital dan syarat evaluasi tugas.
 
 ---
 
