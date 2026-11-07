@@ -1,7 +1,6 @@
 # Day-1-The-Last-Of-Us_Habibi-Arrafif-Rizki
-# Day 1 - [Nama Kelompok] - [Nama Lengkap Anda]
 
-## 👤 Informasi Peserta
+## Informasi Peserta
 * **Nama Lengkap:** Habibi Arrafif Rizki
 * **Kelompok:** Kelompok 5 The Last Of Us
 * **Kegiatan:** Day 1 Proyek Workshop
@@ -13,14 +12,14 @@ Repository ini merupakan dokumentasi resmi dari kegiatan **Day 1 Proyek Workshop
 
 ---
 
-## 🎯 Tujuan Repository
+## Tujuan Repository
 1. **Penyimpanan Dokumentasi:** Menjadi wadah pencatatan materi dan pengetahuan yang didapatkan selama sesi workshop.
 2. **Pemenuhan Tugas:** Memenuhi persyaratan evaluasi dan pengumpulan tugas Day 1 Proyek Workshop.
 3. **Portofolio Pembelajaran:** Sebagai rekam jejak digital atas proses belajar dan pengembangan keterampilan teknis.
 
 ---
 
-## 📚 Dokumentasi Kegiatan Workshop (Day 1)
+## Dokumentasi Kegiatan Workshop (Day 1)
 
 ### 1. Rangkuman Materi
 *Berikut adalah rangkuman materi yang disampaikan pada sesi workshop hari pertama:*
